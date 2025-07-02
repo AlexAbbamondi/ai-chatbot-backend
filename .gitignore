@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules
+
+# Env vars
+.env
+
+# macOS metadata
+.DS_Store
+
+# Logs and build
+*.log
+dist
